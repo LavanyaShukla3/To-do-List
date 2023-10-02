@@ -4,7 +4,8 @@ This is a Flutter project for creating a to-do List.
 
 ## Project Overview
 
-The objective of this tutorial is to understand how to manage state in Flutter. We'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
+I have developed a Flutter application that allows users to run it on emulators or physical devices. This app features an intuitive interface with the ability to add tasks using an "Add" button, track task completion through checkboxes, and facilitate task deletion with a long-press interaction, providing a comprehensive task management solution.
+
 ![Todo App Demo](https://github.com/LavanyaShukla3/images/blob/main/Todo.gif)
 
 ## Getting Started
